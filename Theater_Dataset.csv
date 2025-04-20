@@ -1,0 +1,15 @@
+Theater_ID,Theater_Name,Location,Capacity,Screens ,Monthly_Operating_Cost,Pre_Pandemic_Revenue,Current_Revenue,post implementation revenue 
+1,CineIreland Wicklow,Wicklow,285,5,84359.75,337439,50615.85,97182.432
+2,CineIreland Limerick,Limerick,285,5,125016.25,500065,75009.75,144018.72
+3,CineIreland Galway,Galway,484,4,89655.75,358623,53793.45,103283.424
+4,CineIreland Dublin,Dublin,419,5,126361.75,505447,75817.05,145568.736
+5,CineIreland Cork,Cork,405,3,123527.5,494110,74116.5,142303.68
+6,CineIreland Kerry,Kerry,394,5,142746.5,570986,85647.9,164443.968
+7,CineIreland Kildare,Kildare,358,5,108758.25,435033,65254.95,125289.504
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,Note : The current revenue is before our implementation,,
+,,,,,,used 1.92,,
