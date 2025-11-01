@@ -78,9 +78,4 @@ All datasets were cleaned and pre-processed using **Power Query** in Power BI.
 
 ## 📽 Project Context
 
-This project was created as part of the **Business Intelligence and Business Analytics (BIBA) CA2 assignment** 
-
----
-
-## 📎 Repository Structure
-
+This project was created as part of the **Business Intelligence and Business Analytics (BIBA) assignment** 
